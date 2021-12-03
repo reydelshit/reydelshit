@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**reydelshit/reydelshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Reydel Ocon. 😎
 
-Here are some ideas to get you started:
+#### I like building stuff 👨‍💻 , writing blog posts ✍️, contributing to open source, watching anime and reading books. 📖 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I've worked with ⚒️
+
+- React 😜
+
+- Javascript 😜
+
+- Typescript 😜
+
+- Tailwind CSS 😜
+
+- SASS 😜
+
+- Styled Components 😜
+
+### I do design at  🤜
+
+- Figma
+
+### here are some of my blog posts I wrote 💕
+
+- [my life is completely random](https://reydelp.hashnode.dev/my-life-is-completely-random) ✍️
+- [How I earn my first 72k just doing nothing](https://reydelp.hashnode.dev/how-i-earn-my-first-72k-just-doing-nothing) ✍️
+
+### my personal site
+
+- [Personal site](https://reydelp.hashnode.dev/)
