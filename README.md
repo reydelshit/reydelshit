@@ -6,17 +6,17 @@
 
 ### Technologies I've worked with ⚒️
 
-- React 😜
+- React
 
-- Javascript 😜
+- Javascript
 
-- Typescript 😜
+- Typescript
 
-- Tailwind CSS 😜
+- Tailwind CSS
 
-- SASS 😜
+- SASS
 
-- Styled Components 😜
+- Styled Components
 
 ### I do design at  🤜
 
@@ -29,4 +29,4 @@
 
 ### my personal site
 
-- [Personal site](https://reydelp.hashnode.dev/)
+- [personal site](https://reydelp.hashnode.dev/)
