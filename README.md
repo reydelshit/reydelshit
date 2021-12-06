@@ -16,8 +16,6 @@
 
 - SASS
 
-- Styled Components
-
 ### I do design at  🤜
 
 - Figma
