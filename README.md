@@ -27,4 +27,4 @@
 
 ### my personal site
 
-- [personal site](https://reydelp.hashnode.dev/)
+- [personal site](https://reydelr.netlify.app/)
