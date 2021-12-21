@@ -4,9 +4,9 @@
 
 #### I like building stuff 👨‍💻 , writing blog posts ✍️, contributing to open source, watching anime and reading books. 📖 
 
-### Technologies I've worked with ⚒️
+### Technologies I am comfortable with worked with 😎
 
-- React
+- Vue JS
 
 - Javascript
 
