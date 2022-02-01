@@ -8,6 +8,8 @@
 
 - Vue JS
 
+- React JS
+
 - Javascript
 
 - Typescript
