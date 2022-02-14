@@ -2,7 +2,7 @@
 
 ### I'm Reydel Ocon. 😎
 
-#### I like building stuff 👨‍💻 , writing blog posts ✍️, contributing to open source, watching anime and reading books. 📖 
+#### I like building stuff 👨‍💻 , writing blog posts ✍️, watching anime and reading books. 📖 
 
 ### Technologies I am comfortable with 😎
 
