@@ -25,4 +25,4 @@
 ### here are some of my blog posts I wrote 💕
 
 - [my life is completely random](https://reydelp.hashnode.dev/my-life-is-completely-random) ✍️
--[why I hate everything?](https://reydelp.hashnode.dev/why-i-hate-everything)
+- [why I hate everything?](https://reydelp.hashnode.dev/why-i-hate-everything)✍️
