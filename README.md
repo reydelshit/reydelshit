@@ -1,4 +1,1 @@
-<h2>Hello, I'm Reydel Ocon 🐌🔥</h2>
-
-
-![reydelshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reydelshit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./img/hello.png" /></a></p>
