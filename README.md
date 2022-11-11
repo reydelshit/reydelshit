@@ -6,7 +6,7 @@
 
 <br />
 
-#### These are the I's I can think of:
+#### 💚 These are the I's I can think of:
 
 - ✍️ I am currently studying my bachelors degree in Information Technology at [South East Asian Institute of Technology](http://seait-edu.ph/);
 - 💚 I love petting cats so bad.
@@ -17,7 +17,27 @@
 
 <br/>
 <br/>
+#### 💚 Reach me!
+
+<br/>
+
+```javascript
+const socials = {
+      "Instagram": "https://www.instagram.com/reydelshit/",
+      "Facebook": "https://www.facebook.com/reydelshit/",
+      "Twitter": "https://www.twitter.com/reydelsht/",
+      "Gmail": "reydelocon.dev@gmail.com"
+  }
+  
+```
+
+<br/>
 
 ```javascript
 const Technologies = ["React JS", "PostgreSQL", "Node JS", "Express JS", "CSS",
-                      "Tailwind CSS", "SASS", "Dart / Flutter", "Java", "C Programming"]
+                      "Tailwind CSS", "SASS", "Dart / Flutter", "Java", "C Programming",
+                      "Git / Github"]
+```
+<br/>
+
+
