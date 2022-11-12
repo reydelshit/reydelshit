@@ -16,11 +16,16 @@
 - ✍️ I do write some blogs, so if you are interested you can check it out [here](https://reydel.live/#blogs)
 
 <br/>
+
+
+```javascript
+const Technologies = ["React JS", "PostgreSQL", "Node JS", "Express JS", "CSS",
+                      "Tailwind CSS", "SASS", "Dart / Flutter", "Java", "C Programming",
+                      "Git / Github"]
+```
 <br/>
 
 #### 💚 Reach me!
-
-<br/>
 
 ```javascript
 const socials = {
@@ -34,11 +39,6 @@ const socials = {
 
 <br/>
 
-```javascript
-const Technologies = ["React JS", "PostgreSQL", "Node JS", "Express JS", "CSS",
-                      "Tailwind CSS", "SASS", "Dart / Flutter", "Java", "C Programming",
-                      "Git / Github"]
-```
 <br/>
 
 
